@@ -60,7 +60,7 @@
     "superagent": "^8.1.2",
     "tldts": "^6.1.16",
     "url-regex-safe": "^4.0.0",
-    "wrtc": "^0.4.7"
+    "wrtc": "https://github.com/WonderInventions/node-webrtc.git"
   },
   "devDependencies": {
     "@types/node": "^20.12.2",
